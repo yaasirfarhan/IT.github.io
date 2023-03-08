@@ -1,0 +1,335 @@
+body{
+    background: url('');
+    background-repeat: no-repeat;
+
+}
+.logo{
+    width: 150px;
+    height: 45px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.nav{
+    float: right;
+    margin-top: 25px;
+    margin-right: 50px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration-line: none;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.nav:hover{
+    background-color: rgba(255, 33, 33, 0.822);
+    padding: 15px;
+    text-decoration-line: underline;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    transform: translate(0px, -25px);
+    transition: 0.5s;
+}
+.top{
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 33%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+}
+.prgrf{
+    font-size: 18px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 58%;
+    left: 1005px;
+    transform: translate(-50%, -50%);
+}
+.bckg{
+    position: absolute;
+    top: 53%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+}
+.hal2{
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    margin-top: 890px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+
+.gambar1{
+    width: 400px;
+    height: 220px;
+    margin: 29px;
+    border: 1px solid rgba(0, 0, 0, 0.238);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.357);
+    transition: 0.5s;
+    margin-top: 24%;
+    position: absolute;
+    top: 115%;
+    left: 18%;
+    transform: translate(-50%, -50%);
+}
+.gambar1:hover{
+    transition: 0.5s;
+    background: rgb(255, 0, 0);
+    box-shadow: 5px 20px 20px rgba(0, 0, 0, 0.357);
+}
+
+
+
+
+
+.gambar2{
+    width: 400px;
+    height: 220px;
+    margin: 29px;
+    border: 1px solid rgba(0, 0, 0, 0.238);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.357);
+    transition: 0.5s;
+    margin-top: 24%;
+    position: absolute;
+    top: 115%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.gambar2:hover{
+    transition: 0.5s;
+    background: rgb(255, 0, 0);
+    box-shadow: 5px 20px 20px rgba(0, 0, 0, 0.357);
+}
+
+
+
+
+
+.gambar3{
+    width: 400px;
+    height: 220px;
+    margin: 29px;
+    border: 1px solid rgba(0, 0, 0, 0.238);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.357);
+    transition: 0.5s;
+    margin-top: 24%;                                
+    position: absolute;
+    top: 115%;
+    left: 82%;
+    transform: translate(-50%, -50%);                                
+}
+.gambar3:hover{
+    transition: 0.5s;
+    background: rgb(255, 0, 0);
+    box-shadow: 5px 20px 20px rgba(0, 0, 0, 0.357);
+}
+
+.gambar4{
+    width: 400px;
+    height: 220px;
+    margin: 29px;
+    border: 1px solid rgba(0, 0, 0, 0.238);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.357);
+    transition: 0.5s;
+    margin-top: 10%;
+    position: absolute;
+    top: 200%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+}
+.gambar4:hover{
+    transition: 0.5s;
+    background: rgb(255, 0, 0);
+    box-shadow: 5px 20px 20px rgba(0, 0, 0, 0.357);
+}
+
+.gambar5{
+    width: 400px;
+    height: 220px;
+    border: 1px solid rgba(0, 0, 0, 0.238);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.357);
+    transition: 0.5s;
+    margin-top: 10%;
+    position: absolute;
+    top: 190%;
+    left: 28%;
+    transform: translate(-50%, -50%);
+}
+.gambar5:hover{
+    transition: 0.5s;
+    background: rgb(255, 0, 0);
+    box-shadow: 5px 20px 20px rgba(0, 0, 0, 0.357);
+}
+
+.gambar6{
+    width: 400px;
+    height: 220px;
+    border: 1px solid rgba(0, 0, 0, 0.238);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.357);
+    transition: 0.5s;
+    margin-top: 10%;
+    position: absolute;
+    top: 200%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+}
+.gambar6:hover{
+    transition: 0.5s;
+    background: rgb(255, 0, 0);
+    box-shadow: 5px 20px 20px rgba(0, 0, 0, 0.357);
+}
+
+.pk1{
+    width: 120px;
+    height: 120px;
+    margin: 29px;
+    transition: 0.5s;
+    margin-top: 24%;
+    position: absolute;
+    top: 225%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+}
+
+.pkk1{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 285%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+}
+
+.pk2{
+    width: 120px;
+    height: 120px;
+    margin: 29px;
+    transition: 0.5s;
+    margin-top: 24%;
+    position: absolute;
+    top: 225%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+}
+
+.pkk2{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 285%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+}
+
+.pk3{
+    width: 120px;
+    height: 120px;
+    margin: 29px;
+    transition: 0.5s;
+    margin-top: 24%;
+    position: absolute;
+    top: 270%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+}
+
+.pkk3{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 330%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+}
+
+.pk4{
+    width: 120px;
+    height: 120px;
+    margin: 29px;
+    transition: 0.5s;
+    margin-top: 24%;
+    position: absolute;
+    top: 270%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+}
+
+.pkk4{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 330%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+}
+
+.gambarr1{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 181%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+
+.gambarr2{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 181%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+}
+
+.gambarr3{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 181%;
+    left: 84%;
+    transform: translate(-50%, -50%);
+}
+
+.gambarr4{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 300%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+
+.gambarr5{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 239%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+}
+
+.gambarr6{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 237%;
+    left: 32%;
+    transform: translate(-50%, -50%);
+}
+
+.hal3{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 250%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
